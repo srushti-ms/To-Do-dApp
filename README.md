@@ -1,8 +1,5 @@
 # To-Do-dApp
 
-Here’s a more detailed version of the README with extra sections to give your project more context:
-
-ToDo-App
 This project is a blockchain-based ToDo application that leverages the Aelf blockchain for decentralized task management. Users authenticate securely using the Portkey wallet, ensuring their tasks remain private and tamper-proof.
 
 Features
